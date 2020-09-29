@@ -1,6 +1,6 @@
-# git-demo
+# Ruby Hello
 
-### Running file.rb
 ```bash
+    # run file.rb
     ruby hello.rb
 ```

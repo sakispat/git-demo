@@ -1,3 +1,6 @@
-puts 'Hello World!, to the Ruby!!!'
+print 'Type your name: '
 
-puts 'Hello Sakis'
+name = gets.chomp
+
+puts 'Hello World!, to the Ruby!!!'
+puts "Hello #{name}"
